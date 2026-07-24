@@ -1,6 +1,3 @@
-# Earth Shapers Shutdown — Student Site
+# Earth Shapers Shutdown — student site
 
-Public GitHub Pages student site for the TPT product
-"Earth Shapers Shutdown" (4th Grade NGSS Earth's Systems, Hazards & Human Impacts Escape Room).
-
-Student site only. No teacher PDFs, digit maps, or answer keys.
+Self-paced classroom student site. Teacher guides not included.
